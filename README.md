@@ -36,4 +36,4 @@ $ ./spike-a-flat.py 500
 ```
 
 ### Based on work by agalasso
-This code is a Python adaptation of the [usbdimmer.cpp](https://github.com/agalasso/alnitak_emu/blob/master/emu/usbdimmer.cpp) code by [agaalasso](https://github.com/agalasso).
+This code is a Python adaptation of the [usbdimmer.cpp](https://github.com/agalasso/alnitak_emu/blob/master/emu/usbdimmer.cpp) code by [agalasso](https://github.com/agalasso).
